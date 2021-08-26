@@ -29,7 +29,7 @@ body {
   margin: 0;
   padding-block: 4rem;
   padding-inline: 1.5rem;
-  height: 100vh;
+  min-height: 100vh;
   background-color: var(--pale-blue);
   background-image: url("../img/pattern-background-mobile.svg");
   background-position: top;
