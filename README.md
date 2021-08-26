@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Repository: [See the source code](https://github.com/Shadowbest/order-summary)
+- Live Site URL: [Challenge webpage](https://pedantic-davinci-3a6c6b.netlify.app/)
 
 ## My process
 
